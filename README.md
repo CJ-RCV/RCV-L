@@ -65,6 +65,6 @@ Performance and compatibility vary by device, Minecraft version, and selected se
 
 [RCV Website](https://rcv-cj.bond) · [Twitch](https://www.twitch.tv/rcviq01) · [GitHub Releases](https://github.com/CJ-RCV/RCV-L/releases)
 
-<sub>RCV Launcher is an **unofficial modified version** of [Zalith Launcher 2](https://github.com/ZalithLauncher/ZalithLauncher2), © 2025 MovTery and contributors. Licensed under [GPL-3.0-or-later](LICENSE). This project is not affiliated with Mojang or Microsoft. The corresponding source code and original notices are retained in this repository.</sub>
+<sub>RCV Launcher is an **unofficial modified version** of [Zalith Launcher 2](https://github.com/ZalithLauncher/ZalithLauncher2), © 2025 MovTery and contributors. Licensed under [GPL-3.0-or-later](LICENSE). This project is not affiliated with Mojang or Microsoft. No APK has been published. If an APK is distributed, the corresponding source will be provided to recipients as required by GPL-3.0-or-later.</sub>
 
 </div>
