@@ -1,150 +1,199 @@
 <div align="center">
 
-# RCV Launcher
+<img src="assets/rcv-banner.svg" width="100%" alt="RCV Launcher Gaming Banner" />
 
-### Minecraft: Java Edition on Android
+### ⚡ Minecraft: Java Edition on Android
 
-**A custom Android launcher built for the RCV community.**
+**Your game. Your settings. Your RCV experience.**
 
-[Download](https://github.com/CJ-RCV/RCV-L/releases) · [Report an Issue](https://github.com/CJ-RCV/RCV-L/issues) · [Community](https://rcv-cj.bond)
+[![Releases](https://img.shields.io/badge/GET_RELEASES-8257e5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CJ-RCV/RCV-L/releases)
+[![Issues](https://img.shields.io/badge/REPORT_A_BUG-1d2844?style=for-the-badge&logo=githubissues&logoColor=white)](https://github.com/CJ-RCV/RCV-L/issues/new)
+[![Community](https://img.shields.io/badge/RCV_COMMUNITY-1d2844?style=for-the-badge)](https://rcv-cj.bond)
 
-[![Downloads](https://img.shields.io/github/downloads/CJ-RCV/RCV-L/total?style=for-the-badge&label=Downloads)](https://github.com/CJ-RCV/RCV-L/releases)
-[![Latest Release](https://img.shields.io/github/v/release/CJ-RCV/RCV-L?style=for-the-badge&include_prereleases)](https://github.com/CJ-RCV/RCV-L/releases)
-![Android](https://img.shields.io/badge/Android-8.0%2B-green?style=for-the-badge)
-![License](https://img.shields.io/badge/License-GPL--3.0--or--later-blue?style=for-the-badge)
+[![Downloads](https://img.shields.io/github/downloads/CJ-RCV/RCV-L/total?style=flat-square&label=Downloads&color=8b5cf6)](https://github.com/CJ-RCV/RCV-L/releases)
+[![Release](https://img.shields.io/github/v/release/CJ-RCV/RCV-L?style=flat-square&label=Latest%20Release&color=55dff2)](https://github.com/CJ-RCV/RCV-L/releases)
+![Android](https://img.shields.io/badge/Android-8.0%2B-3DDC84?style=flat-square)
+[![Issues](https://img.shields.io/github/issues/CJ-RCV/RCV-L?style=flat-square&color=ed6fd1)](https://github.com/CJ-RCV/RCV-L/issues)
 
-**Target version: 1.0.0 — Development and testing in progress**
+**Target: v1.0.0** · **Development & testing in progress**
 
-[Features](#-features) · [Installation](#-installation) · [Roadmap](#-version-100-roadmap) · [Troubleshooting](#-troubleshooting)
+[Features](#-launcher-features) · [Installation](#-download--installation) · [Roadmap](#-v100-roadmap) · [Help](#-support--troubleshooting)
 
 </div>
 
 ---
 
-## About
+## 🎮 Welcome to RCV
 
-**RCV Launcher** brings **Minecraft: Java Edition** to Android using the open-source [Zalith Launcher 2](https://github.com/ZalithLauncher/ZalithLauncher2) engine, with an RCV-branded dashboard and community shortcuts.
+**RCV Launcher** is an unofficial Android launcher for **Minecraft: Java Edition**, based on [Zalith Launcher 2](https://github.com/ZalithLauncher/ZalithLauncher2). It combines the upstream game engine with an RCV-branded dashboard and community shortcuts.
 
-Our priorities are stability, intuitive navigation, performance, and easier game management.
+> [!IMPORTANT]
+> **Project status:** RCV v1.0.0 is under development. Some features are inherited from the upstream engine, and the roadmap below describes goals rather than completed work. Check [GitHub Releases](https://github.com/CJ-RCV/RCV-L/releases) for actual APK availability.
 
-> **Status:** Some features below originate from the upstream launcher. RCV-specific changes are still being developed and tested. Roadmap items are **not** claims of completed functionality.
+## ✨ Launcher Features
 
-## ✨ Features
+<table><tr><td width="50%" valign="top">
 
-| Category | Capabilities |
-| --- | --- |
-| **Minecraft Java** | Launch compatible Minecraft Java versions on Android. |
-| **Version Management** | Browse, install, select, and manage game versions. |
-| **Mod Loaders** | Integration with supported mod loaders, including Fabric and Quilt; compatibility varies. |
-| **Mods** | Inspect installed mods, search, sort, filter, and manage enabled/disabled mods. |
-| **Worlds and Files** | Access game saves, screenshots, and game content management screens. |
-| **Resource Packs and Shaders** | Manage installed packs and graphics-related content. |
-| **Touch Controls** | Configure on-screen controls for mobile play. |
-| **Performance Settings** | Tune available renderer, memory, and game settings. |
-| **Accounts** | Manage supported account/login methods. |
-| **Tasks and Logs** | Access task management and crash-log viewing/sharing tools. |
-| **RCV Dashboard** | Custom launcher home with RCV community shortcuts. |
-| **Language** | RCV-specific English and Arabic content; broader localization is planned. |
+### 🎮 Minecraft Java
+Launch compatible Java Edition versions on Android.
 
-Actual support depends on your device, Android version, Minecraft version, and selected renderer.
+### 📦 Version Manager
+Browse, install, organize, and select game versions.
 
-## 📥 Installation
+### 🧩 Mods & Loaders
+Manage installed mods and use supported mod loaders, including Fabric and Quilt where compatible.
 
-1. Visit [official GitHub Releases](https://github.com/CJ-RCV/RCV-L/releases).
-2. Choose a published release and review its notes and known issues.
+</td><td width="50%" valign="top">
+
+### 🎨 Customization
+Configure touch controls, resource packs, shaders, and available graphics settings.
+
+### ⚡ Performance
+Tune memory and renderer options for your device.
+
+### 🏠 RCV Home
+A dedicated RCV dashboard and community shortcuts.
+
+</td></tr><tr><td valign="top">
+
+### 📁 Game Files
+Access saves, screenshots, and version management screens.
+
+</td><td valign="top">
+
+### 🛠️ Logs & Tasks
+Existing task UI and crash-log viewing/sharing workflows.
+
+</td></tr></table>
+
+<sub>Availability varies by build, device, Minecraft version, and graphics renderer. Some features come from the upstream launcher.</sub>
+
+## 📥 Download & Installation
+
+<div align="center">
+
+[![Browse Official Releases](https://img.shields.io/badge/BROWSE_OFFICIAL_RELEASES-8b5cf6?style=for-the-badge&logo=github)](https://github.com/CJ-RCV/RCV-L/releases)
+
+</div>
+
+1. Open [official GitHub Releases](https://github.com/CJ-RCV/RCV-L/releases).
+2. Select a release and read its notes.
 3. Download the Android APK from **Assets**, if available.
-4. Install the APK on your Android device.
-5. Open the launcher, configure your account, and install a compatible Minecraft version.
+4. Install it and configure the launcher.
+5. Install a compatible Minecraft version and select suitable controls and graphics settings.
 
-**If no APK is listed, a public installable build has not been released there yet.** Avoid unofficial mirrors.
+> [!CAUTION]
+> If a release has no APK asset, there is no APK to download from that release. Avoid unofficial APK mirrors.
 
-### Requirements
+<details><summary><b>📱 System requirements — tap to expand</b></summary>
 
-| Item | Details |
-| --- | --- |
-| Android | 8.0+; device compatibility is not guaranteed |
-| Storage | Enough free space for Java, Minecraft files, and optional mods |
-| Memory | Depends on Minecraft version, renderer, and modpack |
-| Network | Required for game downloads and online services |
-| Account | Eligible Minecraft account may be required for official authentication |
+| Component | Details |
+|:--|:--|
+| Android | 8.0+; compatibility varies by device |
+| Storage | Space for Java, Minecraft assets, and optional mods |
+| RAM | Depends on game version, modpack, and renderer |
+| Internet | Needed for downloads and online authentication |
+| Account | An eligible Minecraft account may be needed for official online services |
 
-### Tips for better performance
+</details>
 
-- Start with a lighter Minecraft version and fewer mods.
-- Select a graphics renderer compatible with your hardware.
-- Avoid demanding shaders and high-resolution resource packs on lower-end devices.
-- Keep storage free for game files and updates.
-- Allocate RAM conservatively; more is not always better.
+<details><summary><b>🚀 Performance tips — tap to expand</b></summary>
 
-## 🗺️ Version 1.0.0 Roadmap
+- Start with fewer mods and lighter Minecraft settings.
+- Choose a compatible graphics renderer.
+- Avoid demanding shaders on lower-end hardware.
+- Leave storage free for game assets and downloads.
+- Allocate RAM conservatively.
 
-The following are **planned, in development, or awaiting verification** — not necessarily available in any downloadable build.
+</details>
 
-| Workstream | Planned improvements |
-| --- | --- |
-| Stability | Fix crashes, black screens, navigation, and launch failures. |
-| Performance | Reduce UI stalls, optimize background processing and RAM usage. |
-| Minecraft Launch | Better runtime, renderer, version, and mod-loader diagnostics. |
-| Mods | Improved bulk actions, duplicate detection, compatibility and conflict warnings. |
-| Downloads | Clearer progress, retry/cancel handling, integrity checks, and resume where supported. |
-| Accounts | Better authentication errors and session handling. |
-| Crash Diagnostics | Crash-log sharing and local rule-based troubleshooting. |
-| Updates | Check official CJ-RCV/RCV-L releases and show changelogs/download links. |
-| Interface | Refine the RCV dashboard, settings, accessibility, and navigation. |
-| Game Files | Safer import/export and backups of supported game data. |
-| Arabic | Improve translations and right-to-left layouts. |
-| Performance Presets | Safer device-appropriate configuration presets. |
-| Settings Transfer | Import/export launcher settings without exposing secrets. |
-| QA | Build checks, Android device testing, and release validation. |
+## 🗺️ v1.0.0 Roadmap
 
-**Release policy:** The intended stable release is **RCV Launcher 1.0.0**. No official APK will be published until required testing is completed.
+> [!NOTE]
+> **Planned ≠ released.** These improvements are planned, in development, or awaiting testing. No fabricated progress percentages are shown.
 
-## 🛠️ Troubleshooting
+<details open><summary><b>🛡️ Stability & performance</b></summary>
 
-**Minecraft won't launch:** Check the game version, Java runtime, graphics renderer, and free RAM. Test without mods to isolate the issue.
+- Crash, black-screen, and navigation fixes.
+- Better Minecraft launch/runtime/renderer diagnostics.
+- Reduced UI stalls, optimized memory use, and safer performance presets.
 
-**Mods crash the game:** Ensure each mod matches the Minecraft version and selected loader. Disable recently added mods and inspect crash logs.
+</details>
 
-**Downloads fail:** Check connectivity, storage, and the download source, then retry.
+<details><summary><b>🧩 Mods, downloads & backups</b></summary>
 
-**Low FPS:** Try lighter settings, fewer mods, and a compatible renderer.
+- Mod conflict and compatibility warnings, improved bulk actions.
+- Retry/cancel, integrity checks, and download resume where supported.
+- Safer game-file backup, import, and export.
 
-When opening a [bug report](https://github.com/CJ-RCV/RCV-L/issues), include your device model, Android version, Minecraft version, mod loader, reproduction steps, and **redacted** logs. Never share passwords or account tokens.
+</details>
 
-## ❓ FAQ
+<details><summary><b>🔐 Accounts, logs & updates</b></summary>
 
-**Is RCV Launcher official?**  
-No. This is an unofficial community project and is not affiliated with Mojang or Microsoft.
+- Better authentication errors and session handling.
+- Local rule-based crash diagnosis.
+- Update checks against CJ-RCV/RCV-L GitHub Releases.
+- Settings import/export without secrets.
 
-**Does it support every Minecraft version?**  
-Not necessarily. Compatibility depends on your hardware, Java runtime, renderer, and Minecraft version.
+</details>
 
-**Where do I get updates?**  
-Only from the [official Releases page](https://github.com/CJ-RCV/RCV-L/releases).
+<details><summary><b>🌍 Interface & testing</b></summary>
 
-**Does it support mods?**  
-The underlying engine provides mod-loader integration and mod management. Individual mods may be incompatible with some devices or versions.
+- Refined RCV interface and accessibility.
+- Improved Arabic and RTL support.
+- Gradle builds, Android compatibility tests, and release verification.
 
-## 🌐 Community and Support
+</details>
 
-- [RCV Website](https://rcv-cj.bond)
-- [GitHub Releases](https://github.com/CJ-RCV/RCV-L/releases)
-- [Report a Bug](https://github.com/CJ-RCV/RCV-L/issues)
-- [Twitch](https://www.twitch.tv/rcviq01)
-- [Upstream Zalith Launcher 2](https://github.com/ZalithLauncher/ZalithLauncher2)
+## 🛠️ Support & Troubleshooting
 
-## 📜 Credits and License
+<details><summary><b>❓ Minecraft does not launch</b></summary>
 
-RCV Launcher is an **unofficial modification** of [Zalith Launcher 2](https://github.com/ZalithLauncher/ZalithLauncher2), by **MovTery and contributors**.
+Check your selected Minecraft version, Java runtime, renderer, and free memory. Try launching without mods to isolate the cause.
 
-Licensed under [GPL-3.0-or-later](LICENSE). Distribution of modified binaries must comply with the license's corresponding-source obligations.
+</details>
 
-Minecraft is a trademark of Mojang Studios. This project is not endorsed by Mojang Studios or Microsoft.
+<details><summary><b>❓ Mods cause crashes</b></summary>
+
+Check exact game version and mod-loader compatibility. Disable recently added mods and inspect the crash log.
+
+</details>
+
+<details><summary><b>❓ Downloads fail or FPS is low</b></summary>
+
+Check network and free storage for downloads. For FPS issues, use lighter settings, fewer mods, and a compatible renderer.
+
+</details>
+
+<details><summary><b>❓ Is this an official Minecraft app?</b></summary>
+
+No. RCV Launcher is an unofficial project, not affiliated with Mojang Studios or Microsoft.
+
+</details>
+
+> [!TIP]
+> Bug reports should include device model, Android version, Minecraft version, mod loader, reproduction steps, and **redacted** logs. Never share credentials or tokens.
+
+<div align="center">
+
+[![Report a Bug](https://img.shields.io/badge/OPEN_AN_ISSUE-1d2844?style=for-the-badge&logo=github)](https://github.com/CJ-RCV/RCV-L/issues/new)
+[![Website](https://img.shields.io/badge/RCV_WEBSITE-8257e5?style=for-the-badge)](https://rcv-cj.bond)
+[![Twitch](https://img.shields.io/badge/TWITCH-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/rcviq01)
+
+</div>
+
+## 📜 Credits & License
+
+RCV Launcher is an **unofficial modification** of [Zalith Launcher 2](https://github.com/ZalithLauncher/ZalithLauncher2), by **MovTery and contributors**. Licensed under [GPL-3.0-or-later](LICENSE). Modified binary distribution must comply with the license's corresponding-source requirements.
+
+Minecraft is a trademark of Mojang Studios. This project is not endorsed by or affiliated with Mojang Studios or Microsoft.
 
 ---
 
 <div align="center">
 
 **RCV Launcher — Minecraft Java on Android.**
+
+[⬆ Back to top](#rcv-launcher)
 
 </div>
