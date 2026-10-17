@@ -2,20 +2,20 @@
 
 <img src="assets/rcv-gaming-banner.png" width="100%" alt="RCV Launcher Gaming Banner" />
 
-### ⚡ Minecraft: Java Edition on Android
+### 💜 MINECRAFT JAVA EDITION • ANDROID
 
-**Your game. Your settings. Your RCV experience.**
+**POWERED BY PURPLE. BUILT FOR THE RCV COMMUNITY.**
 
-[![Releases](https://img.shields.io/badge/GET_RELEASES-8257e5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CJ-RCV/RCV-L/releases)
-[![Issues](https://img.shields.io/badge/REPORT_A_BUG-1d2844?style=for-the-badge&logo=githubissues&logoColor=white)](https://github.com/CJ-RCV/RCV-L/issues/new)
-[![Community](https://img.shields.io/badge/RCV_COMMUNITY-1d2844?style=for-the-badge)](https://rcv-cj.bond)
+[![Releases](https://img.shields.io/badge/GET_RELEASES-8B5CF6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CJ-RCV/RCV-L/releases)
+[![Issues](https://img.shields.io/badge/REPORT_A_BUG-6D28D9?style=for-the-badge&logo=githubissues&logoColor=white)](https://github.com/CJ-RCV/RCV-L/issues/new)
+[![Community](https://img.shields.io/badge/RCV_COMMUNITY-6D28D9?style=for-the-badge)](https://rcv-cj.bond)
 
-[![Downloads](https://img.shields.io/github/downloads/CJ-RCV/RCV-L/total?style=flat-square&label=Downloads&color=8b5cf6)](https://github.com/CJ-RCV/RCV-L/releases)
-[![Release](https://img.shields.io/github/v/release/CJ-RCV/RCV-L?style=flat-square&label=Latest%20Release&color=55dff2)](https://github.com/CJ-RCV/RCV-L/releases)
-![Android](https://img.shields.io/badge/Android-8.0%2B-3DDC84?style=flat-square)
-[![Issues](https://img.shields.io/github/issues/CJ-RCV/RCV-L?style=flat-square&color=ed6fd1)](https://github.com/CJ-RCV/RCV-L/issues)
+[![Downloads](https://img.shields.io/github/downloads/CJ-RCV/RCV-L/total?style=for-the-badge&label=Downloads&color=8B5CF6)](https://github.com/CJ-RCV/RCV-L/releases)
+[![Release](https://img.shields.io/github/v/release/CJ-RCV/RCV-L?style=for-the-badge&label=Latest%20Release&color=C084FC)](https://github.com/CJ-RCV/RCV-L/releases)
+![Android](https://img.shields.io/badge/Android-8.0%2B-A855F7?style=for-the-badge)
+[![Issues](https://img.shields.io/github/issues/CJ-RCV/RCV-L?style=for-the-badge&color=E879F9)](https://github.com/CJ-RCV/RCV-L/issues)
 
-**Target: v1.0.0** · **Development & testing in progress**
+![Target](https://img.shields.io/badge/TARGET-v1.0.0-6D28D9?style=for-the-badge) ![Status](https://img.shields.io/badge/STATUS-IN_DEVELOPMENT-A855F7?style=for-the-badge)
 
 [Features](#-launcher-features) · [Installation](#-download--installation) · [Roadmap](#-v100-roadmap) · [Help](#-support--troubleshooting)
 
@@ -23,14 +23,16 @@
 
 ---
 
-## 🎮 Welcome to RCV
+<div align="center"><img src="https://img.shields.io/badge/RCV_PURPLE_GAMING_EDITION-6D28D9?style=for-the-badge" alt="RCV Purple Gaming Edition" /></div>
+
+## 💜 WELCOME TO RCV
 
 **RCV Launcher** is an unofficial Android launcher for **Minecraft: Java Edition**, based on [Zalith Launcher 2](https://github.com/ZalithLauncher/ZalithLauncher2). It combines the upstream game engine with an RCV-branded dashboard and community shortcuts.
 
 > [!IMPORTANT]
 > **Project status:** RCV v1.0.0 is under development. Some features are inherited from the upstream engine, and the roadmap below describes goals rather than completed work. Check [GitHub Releases](https://github.com/CJ-RCV/RCV-L/releases) for actual APK availability.
 
-## ✨ Launcher Features
+## 💜 LAUNCHER FEATURES
 
 <table><tr><td width="50%" valign="top">
 
@@ -68,11 +70,11 @@ Existing task UI and crash-log viewing/sharing workflows.
 
 <sub>Availability varies by build, device, Minecraft version, and graphics renderer. Some features come from the upstream launcher.</sub>
 
-## 📥 Download & Installation
+## 💜 DOWNLOAD & INSTALLATION
 
 <div align="center">
 
-[![Browse Official Releases](https://img.shields.io/badge/BROWSE_OFFICIAL_RELEASES-8b5cf6?style=for-the-badge&logo=github)](https://github.com/CJ-RCV/RCV-L/releases)
+[![Browse Official Releases](https://img.shields.io/badge/BROWSE_OFFICIAL_RELEASES-8B5CF6?style=for-the-badge&logo=github)](https://github.com/CJ-RCV/RCV-L/releases)
 
 </div>
 
@@ -107,7 +109,7 @@ Existing task UI and crash-log viewing/sharing workflows.
 
 </details>
 
-## 🗺️ v1.0.0 Roadmap
+## 💜 v1.0.0 ROADMAP
 
 > [!NOTE]
 > **Planned ≠ released.** These improvements are planned, in development, or awaiting testing. No fabricated progress percentages are shown.
@@ -145,7 +147,7 @@ Existing task UI and crash-log viewing/sharing workflows.
 
 </details>
 
-## 🛠️ Support & Troubleshooting
+## 💜 SUPPORT & TROUBLESHOOTING
 
 <details><summary><b>❓ Minecraft does not launch</b></summary>
 
@@ -176,13 +178,13 @@ No. RCV Launcher is an unofficial project, not affiliated with Mojang Studios or
 
 <div align="center">
 
-[![Report a Bug](https://img.shields.io/badge/OPEN_AN_ISSUE-1d2844?style=for-the-badge&logo=github)](https://github.com/CJ-RCV/RCV-L/issues/new)
-[![Website](https://img.shields.io/badge/RCV_WEBSITE-8257e5?style=for-the-badge)](https://rcv-cj.bond)
-[![Twitch](https://img.shields.io/badge/TWITCH-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/rcviq01)
+[![Report a Bug](https://img.shields.io/badge/OPEN_AN_ISSUE-6D28D9?style=for-the-badge&logo=github)](https://github.com/CJ-RCV/RCV-L/issues/new)
+[![Website](https://img.shields.io/badge/RCV_WEBSITE-8B5CF6?style=for-the-badge)](https://rcv-cj.bond)
+[![Twitch](https://img.shields.io/badge/TWITCH-8B5CF6?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/rcviq01)
 
 </div>
 
-## 📜 Credits & License
+## 💜 CREDITS & LICENSE
 
 RCV Launcher is an **unofficial modification** of [Zalith Launcher 2](https://github.com/ZalithLauncher/ZalithLauncher2), by **MovTery and contributors**. Licensed under [GPL-3.0-or-later](LICENSE). Modified binary distribution must comply with the license's corresponding-source requirements.
 
