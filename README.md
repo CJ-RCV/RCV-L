@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/rcv-banner.svg" width="100%" alt="RCV Launcher Gaming Banner" />
+<img src="assets/rcv-gaming-banner.png" width="100%" alt="RCV Launcher Gaming Banner" />
 
 ### ⚡ Minecraft: Java Edition on Android
 
